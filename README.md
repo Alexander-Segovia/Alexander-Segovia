@@ -1,6 +1,7 @@
-![Hey](https://user-images.githubusercontent.com/97364283/150093197-0472393d-2ee8-4bb6-8d1f-e028f6c55de9.png)
+![hey](https://user-images.githubusercontent.com/97364283/150102704-d12532d4-f5f0-49b1-919e-f71e501d3865.png)
 
-## Hi, I'm Alexander! 
+
+
 
 #### [A very motivated student on his way to becoming an impressive future programmer] 
 
