@@ -1,4 +1,4 @@
-# Hi, my name is Cristobal Lopez
+# Hi, my name is Cris Lopez
 
 ## [An enthusiastic and motivated person]
 
